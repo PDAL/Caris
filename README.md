@@ -1,0 +1,1 @@
+The PDAL Caris plugin is released as BSD. This was once part of PDAL/master, but has been separated should someone wish to pick up development at a later date. It should be noted that the plugin is currently out of sync with PDAL/master.
